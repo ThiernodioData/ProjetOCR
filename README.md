@@ -21,9 +21,12 @@
 3. **Extraction de données** – Les textes des champs sont extraits et structurés.
 4. **Résultat** – Affiche les données structurées et les textes extraits.
 
-![Processus Exemple](demo/demo1.png)
-![Processus Exemple](demo/demo2.png)
-![Processus Exemple](demo/demo3.png)
+![Processus Exemple](OCR_Egyptian_ID/demo/demo1.png)
+![Processus Exemple](OCR_Egyptian_ID/demo/demo2.png)
+![Processus Exemple](OCR_Egyptian_ID/demo/demo3.png)
+![Processus Exemple](demo1.png)
+![Processus Exemple](demo2.png)
+![Processus Exemple](demo3.png)
 
 ## **Guide d’Installation**
 
